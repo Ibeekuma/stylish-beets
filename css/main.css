@@ -2,28 +2,34 @@ html {
   background-color: #c9b5ab;
   line-height: 1.5;
 }
+
 h1 {
   list-style-type: none;
   font-family: "PT Serif";
   font-weight: normal;
 }
+
 h2 {
   font-family: "PT Sans";
   font-weight: bold;
   color: #222;
 }
+
 nav ol {
   list-style-type: none;
   font-family: "PT Sans";
   font-weight: bold;
   color: #3f1622;
 }
+
 img {
   width: 100%;
 }
+
 dt {
   font-weight: bold;
 }
+
 ol {
   list-style-type: lower-greek;
 }
@@ -31,19 +37,23 @@ ol {
 ul {
   list-style-type: circle;
 }
+
 figure figcaption {
   font-style: italic;
   text-align: center;
 }
+
 blockquote {
   font-size: 1.5rem;
   font-style: italic;
   line-height: 1.5;
 }
+
 a, a:link {
   text-decoration: none;
   color: #3f1622;
 }
+
 a:hover {
   color: #222;
   text-decoration: underline;
